@@ -9,7 +9,7 @@ public class Circle implements GeometricObject {
   *   it must be initialized in the constructor.
   *
   **/
-    private final double radious;
+    protected double radious;
 
     public Circle() {
         double radious;
